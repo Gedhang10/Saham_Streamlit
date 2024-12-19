@@ -1,4 +1,5 @@
 yfinance
+numpy==1.23
 pandas_ta
 pandas
 numpy
