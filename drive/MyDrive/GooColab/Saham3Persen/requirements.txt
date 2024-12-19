@@ -1,4 +1,3 @@
-streamlit
 yfinance
 pandas_ta
 pandas
@@ -6,3 +5,5 @@ numpy
 scikit-learn
 xgboost
 matplotlib
+streamlit
+setuptools
