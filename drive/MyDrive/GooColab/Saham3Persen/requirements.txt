@@ -8,4 +8,5 @@ xgboost
 matplotlib
 setuptools>=65.5.0
 Pillow>=9.5.0
+zlib
 
